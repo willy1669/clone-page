@@ -1,0 +1,183 @@
+.left-bar {
+    float: left;
+    width: 26%;
+    background-color: #292828;
+    padding-left: 13px;
+    margin-top: -9px;
+    height: 120%;
+    margin-left: -9px;
+}
+
+
+
+section.rightbar-left {
+	float: left;
+	width: 74%;
+	background-color: #EFEFEF;
+	
+}
+
+.topcontent {
+    margin-left: 31px;
+    padding-left: 331px;
+}
+
+.header-title {
+    text-align: left;
+    font-size: 21px;
+    padding-left: 71px;
+    padding-bottom: 0px;
+	margin-bottom: -4px;
+	padding-top: 10px;
+	font-weight: 500;
+	color: #5f5656;
+
+}
+
+body {
+	margin: 2px;
+	padding: 7px;
+	background-color: #e6e6de;
+}
+
+.course-list {
+	list-style: none;
+}
+
+.header-content {
+	padding: 4px 10px;
+	color: #5f5656;
+    font-size: 18px;
+}
+h3.course-header {
+    font-size: 11px;
+    color: #5a5959;
+}
+
+.color-content {
+	color: #adb5b0;
+}
+
+.content {
+	color: #5a5959;
+	font-size: 20px;
+	font-weight: 250;
+}
+
+.content-body {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+#btn-right {
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-weight: 250;
+    border: 4px solid white;
+    font-size: 15px;
+    font-weight: 600;
+    color: #423f3f;
+    background-color: #dddddd;
+    border-bottom-color: buttonface;
+    border-color: buttonface;
+	margin-top: -13px;
+}
+
+.logo {
+	width: 17px;
+}
+
+h2.subtopic-header {
+    font-size: 17px;
+    font-weight: bolder;
+    color: #564f4f;
+}
+
+#header-topic {
+    text-align: center;
+    font-size: 20px;
+	color: #5a5959;
+    font-weight: 250;
+}
+
+
+#header-subtopic {
+    text-align: center;
+    font-weight: 800;
+    font-size: 28px;
+    padding-top: 3px;
+    margin-top: -17px;
+}
+
+p.course-body {
+    margin-top: -7px;
+    color: b3afaf;
+    font-size: 15px;
+}
+
+p.course-body1 {
+    margin-top: -15px;
+    font-size: 15px;
+}
+
+
+.colorcontent {
+    color: #adb5b0;
+}
+
+.rightbarright-subtopic {
+    float: left;
+    width: 37%;
+    padding-left: 39px;
+    box-shadow: 0 0 3px 2px white;
+    margin-left: 34px;
+    padding-right: 37px;
+	padding-bottom: 26px;
+	color: #575d59;
+	background-color: #fff;
+}
+
+.rightbarleft-subtopic {
+    float: left;
+    width: 37%;
+    padding-right: 33px;
+    padding-left: 39px;
+	box-shadow: 0 0 3px 2px #e9e9e9;
+	padding-bottom: 26px;
+	color: #575d59;
+	background-color: #fff;
+	
+}
+
+span.color-green {
+    color: #76ec09;
+}
+
+.body-content {
+	padding: 10px;
+}
+
+.btn-left {
+    margin-left: -29px;
+    margin-right: 0px;
+    padding-left: -12px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 4px;
+	background-color: #dddddd;
+    
+}
+
+.btn-right {
+    margin-left: -29px;
+    margin-right: 0px;
+    padding-left: -12px;
+    padding-top: 7px;
+    padding-bottom: 9px;
+    border-radius: 4px;
+	background-color: #dddddd;
+    
+}
+
+
+
